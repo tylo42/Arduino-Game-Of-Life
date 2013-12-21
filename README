@@ -2,4 +2,6 @@ A simple 8x8 board on Arduino displaying Conway's Game of Life.
 
 The board can be purchased at https://www.adafruit.com/products/872
 
+Adafruit has provided a useful library at https://github.com/adafruit/Adafruit-LED-Backpack-Library
+
 See a video of the code running at https://www.youtube.com/watch?v=ex0FBVbEetU
